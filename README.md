@@ -52,3 +52,4 @@ The example below illustrates an `"accessibilitySupport"` property for an `Event
 - [Physical impairment](https://openactive.io/accessibility-support#dd026873-6713-4ea1-af5a-08901f651d98)
 - [Learning impairment](https://openactive.io/accessibility-support#67902468-fd49-4238-8650-20a22d7f0e40)
 - [Mental health issues](https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a)
+
