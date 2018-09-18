@@ -1,8 +1,8 @@
 {
   "context": "https://openactive.io/",
   "id": "https://openactive.io/accessibility-support",
-  "title": "OpenActive Accessibilty Support list",
-  "description": "This document describes the OpenActive Accessibilty Support list.",
+  "title": "OpenActive Accessibility Support list",
+  "description": "This document describes the OpenActive Accessibility Support list.",
   "type": "ConceptScheme",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "concept": [
