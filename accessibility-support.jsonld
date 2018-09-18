@@ -1,0 +1,35 @@
+{
+  "context": "https://openactive.io/",
+  "id": "https://openactive.io/accessibility-support",
+  "title": "OpenActive Accessibilty Support list",
+  "description": "This document describes the OpenActive Accessibilty Support list.",
+  "type": "ConceptScheme",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "concept": [
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/accessibility-support#1393f2dc-3fcc-4be9-a99f-f1e51f5ad277",
+      "prefLabel": "Visual impairment"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/accessibility-support#2bfb7228-5969-4927-8435-38b5005a8771",
+      "prefLabel": "Hearing impairment"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/accessibility-support#dd026873-6713-4ea1-af5a-08901f651d98",
+      "prefLabel": "Physical impairment"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/accessibility-support#67902468-fd49-4238-8650-20a22d7f0e40",
+      "prefLabel": "Learning impairment"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a",
+      "prefLabel": "Mental health issues"
+    }
+  ]
+}
