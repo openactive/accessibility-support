@@ -2,6 +2,8 @@
 
 > Status: Stable | [Please Provide Feedback via GitHub](https://github.com/openactive/accessibility-support/issues)
 
+## Documentation
+
 This repository holds the [JSON-LD definition](https://www.openactive.io/accessibility-support/accessibility-support.jsonld) of the OpenActive Accessibility Support controlled vocabulary.
 
 This controlled vocabulary MUST be referenced within a `Concept` via `inScheme` using the URL `"https://openactive.io/accessibility-support"` (which will return the [JSON-LD definition](https://www.openactive.io/accessibility-support/accessibility-support.jsonld) if the `Accept` header contains `application/ld+json`).
