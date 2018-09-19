@@ -1,6 +1,10 @@
 # Accessibility Support
 
-> Status: Stable | [Please Provide Feedback via GitHub](https://github.com/openactive/accessibility-support/issues)
+> Status: Draft | [Please Provide Feedback via GitHub](https://github.com/openactive/accessibility-support/issues)
+
+## Status
+
+This list is in a draft state, however every effort will be made in subsequent revisions to maintain the IDs associated with the concepts enumerated here.
 
 ## Documentation
 
