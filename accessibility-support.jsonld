@@ -30,6 +30,11 @@
       "type": "Concept",
       "id": "https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a",
       "prefLabel": "Mental health issues"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/accessibility-support#69b689d4-be04-4e6d-be56-4ac72ec82444",
+      "prefLabel": "Social or behavioural problems"
     }
   ]
 }
