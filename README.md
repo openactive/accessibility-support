@@ -1,5 +1,7 @@
 # Accessibility Support
 
+> Status: Stable | [Please Provide Feedback via GitHub](https://github.com/openactive/accessibility-support/issues)
+
 This repository holds the [JSON-LD definition](https://www.openactive.io/accessibility-support/accessibility-support.jsonld) of the OpenActive Accessibility Support controlled vocabulary.
 
 This controlled vocabulary MUST be referenced within a `Concept` via `inScheme` using the URL `"https://openactive.io/accessibility-support"` (which will return the [JSON-LD definition](https://www.openactive.io/accessibility-support/accessibility-support.jsonld) if the `Accept` header contains `application/ld+json`).
@@ -59,4 +61,9 @@ The example below illustrates an `"accessibilitySupport"` property for an `Event
 - [Learning impairment](https://openactive.io/accessibility-support#67902468-fd49-4238-8650-20a22d7f0e40)
 - [Mental health issues](https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a)
 - [Social or behavioural problems](https://openactive.io/accessibility-support#69b689d4-be04-4e6d-be56-4ac72ec82444)
+
+
+## Licence
+
+The documentation and data in this repository is published under the [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
