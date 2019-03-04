@@ -1,5 +1,5 @@
 {
-  "context": "https://openactive.io/",
+  "@context": "https://openactive.io/",
   "id": "https://openactive.io/accessibility-support",
   "title": "OpenActive Accessibility Support list",
   "description": "This document describes the OpenActive Accessibility Support list.",
