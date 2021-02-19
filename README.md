@@ -12,6 +12,8 @@ This repository holds the [JSON-LD definition](https://openactive.io/accessibili
 
 This controlled vocabulary MUST be referenced within a `Concept` via `inScheme` using the URL `"https://openactive.io/accessibility-support"` (which will return the [JSON-LD definition](https://openactive.io/accessibility-support/accessibility-support.jsonld) if the `Accept` header contains `application/ld+json`).
 
+This controlled vocabulary SHOULD be retrieved frequently using an HTTP GET and cached within an application, to ensure that the most up-to-date version is displayed to the user, while also protecting against network failure when accessing the underlying resource. To access this controlled vocabulary the application MUST GET the URL `"https://openactive.io/accessibility-support/accessibility-support.jsonld"` (note there is no www in the URL) which does not require a specific `Accept` header, and is cached via CDN. The controlled vocabulary is also available via a GET of the URL `"https://openactive.io/accessibility-support"` using an `Accept` header of `application/ld+json`, for completeness, however this shorter URL MUST NOT be used in production.
+
 Please raise requests for content or issues related to this controlled vocabulary via [GitHub](https://github.com/openactive/accessibility-support/issues). 
 
 ## Example use
