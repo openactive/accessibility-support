@@ -9,32 +9,38 @@
     {
       "type": "Concept",
       "id": "https://openactive.io/accessibility-support#1393f2dc-3fcc-4be9-a99f-f1e51f5ad277",
-      "prefLabel": "Visual impairment"
+      "prefLabel": "Visual impairment",
+      "topConceptOf": "https://openactive.io/accessibility-support"
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/accessibility-support#2bfb7228-5969-4927-8435-38b5005a8771",
-      "prefLabel": "Hearing impairment"
+      "prefLabel": "Hearing impairment",
+      "topConceptOf": "https://openactive.io/accessibility-support"
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/accessibility-support#dd026873-6713-4ea1-af5a-08901f651d98",
-      "prefLabel": "Physical impairment"
+      "prefLabel": "Physical impairment",
+      "topConceptOf": "https://openactive.io/accessibility-support"
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/accessibility-support#67902468-fd49-4238-8650-20a22d7f0e40",
-      "prefLabel": "Learning impairment"
+      "prefLabel": "Learning impairment",
+      "topConceptOf": "https://openactive.io/accessibility-support"
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a",
-      "prefLabel": "Mental health issues"
+      "prefLabel": "Mental health issues",
+      "topConceptOf": "https://openactive.io/accessibility-support"
     },
     {
       "type": "Concept",
       "id": "https://openactive.io/accessibility-support#69b689d4-be04-4e6d-be56-4ac72ec82444",
-      "prefLabel": "Social or behavioural problems"
+      "prefLabel": "Social or behavioural problems",
+      "topConceptOf": "https://openactive.io/accessibility-support"
     }
   ]
 }
